@@ -1,0 +1,3 @@
+os arquivos do banco de dados estão na pasta Debug.
+
+\bin\Debug\net5.0\Database\bd.db
